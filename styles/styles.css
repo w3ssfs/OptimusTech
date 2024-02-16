@@ -1,4 +1,4 @@
-@import url(/styles/var.css);
+@import url(./styles/var.css);
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
 
 * {
@@ -19,8 +19,6 @@ body {
   display: flex;
   justify-content: space-between;
   margin: 2em 7em;
-}
-.header__content {
 }
 
 .header__img {
