@@ -1,0 +1,12 @@
+:root {
+  /* COLOR TXT */
+  --color-main: #667085;
+  --color-secund: #8e2424;
+  --color-title: #101828;
+
+  /* FONTS */
+  --font-inter: "Inter", sans-serif;
+
+  /* BACKGROUND */
+  --bg--main: #fff;
+}
