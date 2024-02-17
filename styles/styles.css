@@ -327,3 +327,44 @@ body {
   margin-top: 2em;
   color: var(--color-main);
 }
+
+@media screen and (max-width: 1700px) {
+  .header__container__list {
+    margin-left: 0em;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .header__container__list {
+    font-size: 10px;
+  }
+  .about__content__text {
+    width: 20em;
+    font-size: 15px;
+  }
+  .about__content__title {
+    font-size: 30px;
+  }
+  .preview__contents {
+    margin: 0 0em;
+    padding: 0 1em;
+    font-family: var(--font-inter);
+    height: 288px;
+  }
+  .preview__contents__display {
+    width: 130px;
+  }
+
+  .depoiment__title__h2 {
+    font-size: 0.75em;
+    line-height: 24px;
+  }
+  .depoiment__title__h4 {
+    font-size: 10px;
+
+    margin: 7em 0 1em;
+  }
+  .depoiment__conteiner {
+    height: 504px;
+  }
+}
